@@ -1,8 +1,8 @@
-# Employee Management System Using Hash Tables
+ Employee Management System Using Hash Tables
 
 A C-based Employee Management System developed to demonstrate the practical application of Hash Tables, Linked Lists, Pointers, Structures, and Dynamic Memory Allocation for efficient employee data management.
 
-## 📌 Project Overview
+ Project Overview
 
 The Employee Management System provides an organized way to store and manage employee records such as Employee ID, Name, Designation, Experience, and Age.
 
@@ -10,17 +10,17 @@ The system uses a hash function to map each employee's unique ID to an index in 
 
 This approach provides fast employee record insertion, searching, deletion, and display operations.
 
-## ✨ Features
+  Features
 
-- ➕ Insert new employee records
-- 🔍 Search employees using Employee ID
-- 🗑️ Delete employee records
-- 📋 Display all employee records
-- 🔗 Collision handling using chaining
-- 🖥️ Menu-driven interface
-- ⚡ Fast average-time operations
+-  Insert new employee records
+-  Search employees using Employee ID
+-  Delete employee records
+-  Display all employee records
+-  Collision handling using chaining
+-  Menu-driven interface
+-  Fast average-time operations
 
-## 🛠️ Technologies & Concepts
+ Technologies & Concepts
 
 - C Programming
 - Hash Tables
@@ -31,7 +31,7 @@ This approach provides fast employee record insertion, searching, deletion, and 
 - Dynamic Memory Allocation
 - GCC / C Compiler
 
-## 🧮 Hashing Technique
+ Hashing Technique
 
 The project uses the following hash function:
 
